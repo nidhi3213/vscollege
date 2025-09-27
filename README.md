@@ -1,3 +1,3 @@
 # vscollege
 this is my first git folder
-author... vidhi singh 
+author... vidhi (vscollege)
